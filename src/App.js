@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React Shashank</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload1_after clone.
+          bhad ma ja
         </p>
       </div>
     );
